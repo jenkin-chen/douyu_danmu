@@ -11,6 +11,8 @@ import threading
 import copy
 import struct
 
+#陈志自己加的几句注释
+
 reload(sys)
 sys.setdefaultencoding('gb18030')
 
